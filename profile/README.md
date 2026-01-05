@@ -2,7 +2,7 @@
 
 GaiaWM is an experimental world model framework designed to help intelligent systems *interpret*, *reason about*, and *act within* spatial environments — not by knowing everything, but by understanding what matters.
 
-GaiaWM uses the data from the sister projects [OpenHistoryMap] and [OpenFantasyMaps] as well as the rules managed by [OntoRAG] as core elements in the construction of a complex living world where LLM agents can learn and interact with the world.
+GaiaWM uses the data from the sister projects **OpenHistoryMap** (https://www.openhistorymap.org) and **OpenFantasyMaps** (https://www.fantasymaps.org) as well as the rules managed by **OntoRAG** (https://ontorag.github.io) as core elements in the construction of a complex living world where LLM agents can learn and interact with the world.
 
 GaiaWM focuses on **meaningful, agent-centric world representation**, supporting contexts where systems operate under uncertainty, partial observation, and evolving goals.
 
