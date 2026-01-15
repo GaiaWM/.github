@@ -8,6 +8,15 @@ GaiaWM focuses on **meaningful, agent-centric world representation**, supporting
 
 ---
 
+## Use Cases
+
+- **Eye on FantasyMaps** - You can explore the world not only by "looking" at the map but also by havin an eye directly in the field: By clicking the eye in the top right angle of the map you can select a poin from which the world has to be described and a direction. The way you are looking at the world defines the description that is passed through the GaiaWM API and returns a description as if you were there. 
+  https://map.fantasymaps.org/toril/1302/9.155188741024675/43.171531516613754/-75.4897972464646
+  <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/bec386cf-2dc9-4d96-8d6a-e6cf61e486d7" />
+
+
+---
+
 ## 🔍 What GaiaWM Is
 
 GaiaWM stands for **“Gaia World Model”**, a conceptual foundation for representing context in ways agents can *use*, not just *store*. At its core, GaiaWM models:
